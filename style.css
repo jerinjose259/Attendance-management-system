@@ -1,0 +1,55 @@
+*{
+margin:0px;
+padding:0px;	
+}
+
+
+.admin a
+{
+	font-size:18px;
+	text-decoration:none;
+	color:red;
+}
+.admin{
+	width:120px;
+	text-align:right;
+	margin-left:88%;
+	margin-top:20px;
+}
+
+.table td
+{
+	padding:8px;
+}
+
+
+.menubar{
+	text-align:center;
+	background-color:black;
+}
+.menubar ul li a{
+	color:white;
+	text-decoration:none;
+}
+.menubar ul{
+	display:inline-flex;
+	list-style:none;
+}
+.menubar ul li{
+	width:120px;
+	padding:15px;
+	margin:15px;
+	
+}
+.menubar ul li:hover{
+	background-color:orange;
+	border-radius:10px;
+	
+}
+.var{
+	display:flex;
+	margin-left:50px;
+	margin-right:50px;
+	text-align:justify;
+	height:550px;
+}

@@ -1,0 +1,34 @@
+
+ADMIN
+.............
+
+1. add(req)/edit/view student 
+2. add(req)/edit/view parents
+3. add(req)/edit/view teachers 
+4. add/edit/view batches 
+5. add/edit/view courses 
+6. add/edit/view division
+7.edit/view leaves
+8. add/edit/view attentence
+
+
+Teachers
+...............
+
+1.add/edit/view students
+2. add each students with curresponding division
+3.mark each class attentence/edit/view 
+4.approve/edit/view leaves
+
+students
+,...........
+
+apply leave 
+videw leave  
+videw attentence
+
+parents
+..........
+
+view attentence of student 
+view class base attentence
